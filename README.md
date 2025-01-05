@@ -8,17 +8,17 @@ https://github.com/SpiderLabs/Responder
 ### Installation
 
 ```
-wget https://raw.githubusercontent.com/RajChowdhury240/Responder-for-Mac/main/responder
+wget https://raw.githubusercontent.com/RajChowdhury240/Responder-for-Mac/main/Responder
 ```
 
 ```
-chmod +x responder
-sudo cp responder /usr/local/bin/
+chmod +x Responder
+sudo cp Responder /usr/local/bin/
 ```
 
 #### Usage
 ```
-sudo responder -i en0
+sudo Responder -i 10.8.4.206 (Any IP you want to use with)
 ```
 
-![image](https://github.com/user-attachments/assets/f7f1ef23-d8ae-4441-a58b-146fbed0508d)
+

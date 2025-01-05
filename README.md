@@ -8,7 +8,7 @@ https://github.com/SpiderLabs/Responder
 ### Installation
 
 ```
-wget
+wget https://raw.githubusercontent.com/RajChowdhury240/Responder-for-Mac/main/responder
 ```
 
 ```
@@ -20,3 +20,5 @@ sudo cp responder /usr/local/bin/
 ```
 sudo responder -i en0
 ```
+
+![image](https://github.com/user-attachments/assets/f7f1ef23-d8ae-4441-a58b-146fbed0508d)
